@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Cloud Computing, Web Development, DevOps and Data Science
 - 🌱 I’m currently learning Cloud, Web Dev and DSA
 - 💞️ I’m looking to collaborate on various Open Source Projects
-- 📫 How to reach me @pratikmohite1401@gmail.com
+- 📫 You can reach me @pratikmohite1401@gmail.com
 
 <!---
 Pratik2512/Pratik2512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
