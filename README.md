@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,AWS and BootStrap**
 
-- 💬 Ask me about **JavaScript, Python**
+- 💬 Ask me about **JavaScript, React, Python**
 
 - 📫 How to reach me **pratikmohite1401@gmail.com**
 
