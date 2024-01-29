@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Mohite</h1>
-<h3 align="center">A passionate frontend developer and cloud enthusiast from India</h3>
+<h3 align="center">A passionate frontend developer, data science and cloud enthusiast from India</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik2512&label=Profile%20views&color=0e75b6&style=flat" alt="pratik2512" /> </p>
