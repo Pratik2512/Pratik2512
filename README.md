@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik2512&label=Profile%20views&color=0e75b6&style=flat" alt="pratik2512" /> </p>
 
-- 🌱 I’m currently learning **React,AWS and BootStrap**
+- 🌱 Currently learning **React, Solidity and DevOps**
 
 - 💬 Ask me about **JavaScript, React, Python**
 
