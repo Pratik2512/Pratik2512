@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning **React, Solidity and DevOps**
 
-- 💬 Ask me about **JavaScript, React, Python**
+- 💬 Ask me about **JavaScript, React, Python, Java, SAP HANA, SQL, Docker**
 
 - 📫 How to reach me **pratikmohite1401@gmail.com**
 
